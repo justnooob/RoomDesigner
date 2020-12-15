@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Designer</string>
+    <string name="start">Новый проект</string>
+    <string name="exit">Выход</string>
+</resources>
